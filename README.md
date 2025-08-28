@@ -18,6 +18,11 @@ Welcome to **Edusity**, a modern, responsive React learning platform where stude
 
 ---
 
+### 🎓 Courses Offered 
+<img width="1899" height="866" alt="image" src="https://github.com/user-attachments/assets/69db5924-1612-43b0-ac8c-37d6a283ab46" />
+
+---
+
 ### 📚 Campus Section  
 <img width="100%" alt="Edusity Courses Page" src="https://github.com/user-attachments/assets/8c1a6b9d-b025-4b82-9f55-6ba4106cbbe2" />
 
