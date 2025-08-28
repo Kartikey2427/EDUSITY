@@ -5,7 +5,7 @@ Welcome to **Edusity**, a modern, responsive React learning platform where stude
 ---
 
 <h1 align="center">
-  <a href="https://edusity.vercel.app/"><strong> ➥ Live Demo</strong></a>
+  <a href="https://edusity-five-theta.vercel.app/"><strong> ➥ Live Demo</strong></a>
 </h1>
 
 ---
