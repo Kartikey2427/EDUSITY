@@ -1,6 +1,6 @@
 # Edusity — Learn. Create. Share. 🎓✨
 
-Welcome to **Edusity**, a modern, responsive React learning platform where students and instructors can explore courses, read articles, and get in touch via a working contact form (enquiries can be sent straight to your email). This repository contains a React frontend with smooth in-page scrolling, a responsive slider, and a working contact form (EmailJS or server-side mail).
+Welcome to **Edusity**, a modern, responsive React platform where students and instructors can explore courses, read articles, and get in touch via a working contact form (enquiries can be sent straight to your email). This repository contains a React frontend with smooth in-page scrolling, a responsive slider, and a working contact form (EmailJS or server-side mail).
 
 ---
 
