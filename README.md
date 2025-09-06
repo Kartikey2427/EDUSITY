@@ -70,3 +70,23 @@ npm install
 # 3. Run development server
 npm run dev
 ```
+
+---
+
+## 🙌 Contributing
+
+- ⭐ Star the repo if it helps you    
+- 📚 Share new problems to solve
+
+---
+
+## 📬 Contact
+
+📧 [kartikeytripathi940@gmail.com](mailto:kartikeytripathi940@gmail.com)  
+🔗 [LinkedIn: Kartikey24](https://www.linkedin.com/in/kartikey24)  
+💻 [GitHub: Kartikey24](https://github.com/Kartikey24)
+
+---
+
+# Happy coding 💻✨
+
